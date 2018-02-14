@@ -1,0 +1,17 @@
+{
+  "name": "orvibo-hvac",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "@loke/config": "^3.0.0",
+    "express": "^4.16.2",
+    "mqtt": "^2.15.1",
+    "node-orvibo": "^1.1.0"
+  }
+}
